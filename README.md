@@ -1,0 +1,8 @@
+# Árvores Rubro-Negras
+Bem-vindo ao repositório do projeto de Árvore Rubro-Negra, desenvolvido com o propósito acadêmico de aprofundar o conhecimento nessa importante estrutura de dados. Aqui você encontrará a implementação dessa árvore, juntamente com algoritmos associados, com o objetivo de demonstrar os conceitos teóricos e práticos aprendidos em sala de aula. 
+# Objetivos
+O objetivo deste projeto é fornecer uma compreensão sólida da estrutura de dados de Árvore Rubro-Negra e sua aplicação. Essa árvore balanceada possui características únicas que garantem uma operação eficiente tanto para inserção, remoção quanto para busca. Ao explorar este repositório, você terá a oportunidade de aprimorar suas habilidades em estrutura de dados, bem como compreender a implementação dos algoritmos fundamentais associados à Árvore Rubro-Negra. 
+# Red-Black Trees
+Welcome to the repository of the Árvore Rubro-Negra project, developed with the academic purpose of deepening knowledge in this important data structure. Here you will find the implementation of this tree, along with associated algorithms, with the aim of demonstrating the theoretical and practical concepts learned in the classroom.
+# Goals
+The aim of this project is to provide a solid understanding of the Red-Black Tree data structure and its application. This balanced tree has unique features that ensure efficient operation for both insertion, deletion and searching. By exploring this repository, you will have the opportunity to improve your data structure skills, as well as understand the implementation of the fundamental algorithms associated with the Red-Black Tree.
